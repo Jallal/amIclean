@@ -8,6 +8,7 @@
         "@progress/kendo-react-layout": "^5.12.0",
         "bootstrap": "4.4.1",
         "build": "^0.1.4",
+        "framer-motion": "^4.1.17",
         "js-yaml": "^4.1.0",
         "json-beautify": "^1.1.1",
         "jxLoader": "^0.1.1",
